@@ -1,0 +1,9 @@
+
+.friend_box{
+    margin: auto;
+    max-width: 500px;
+    background: orange;
+    padding: 5px;
+    overflow: hidden;
+    text-align: center;
+}
